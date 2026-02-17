@@ -1,0 +1,11 @@
+/vendor/
+/node_modules/
+/tmp/
+/logs/
+.env
+.DS_Store
+Thumbs.db
+*.log
+*.cache
+*.zip
+Added gitignore
